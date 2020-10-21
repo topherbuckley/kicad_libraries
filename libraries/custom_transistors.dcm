@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQP90P06-07L
+D P-channel Power Enhancement MOSFET
+K simulation mosfet, p-channel, enhancement
+F /home/christopher/kicad/datasheets/65687SQP90P06-07L_PS_REVA.pdf
+$ENDCMP
+#
+#End Doc Library

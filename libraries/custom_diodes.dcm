@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG60T50ELPX
+D 60V 5A low leakage current Trench MEGA Schottky barrier rectifier, SOD-128
+K diode Schottky
+F https://assets.nexperia.com/documents/data-sheet/PMEG60T50ELP.pdf
+$ENDCMP
+#
+#End Doc Library
