@@ -1,9 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP PMEG60T50ELPX
-D 60V 5A low leakage current Trench MEGA Schottky barrier rectifier, SOD-128
-K diode Schottky
-F https://assets.nexperia.com/documents/data-sheet/PMEG60T50ELP.pdf
+$CMP STPS10L25D
+D Diode symbol for simulation only. Pin order incompatible with official kicad footprints
+K simulation
+F https://www.digikey.jp/product-detail/en/stmicroelectronics/STPS10L25D/497-2738-5-ND/603763
 $ENDCMP
 #
 #End Doc Library
